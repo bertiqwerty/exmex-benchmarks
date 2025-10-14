@@ -22,7 +22,7 @@ to compute the results. Reported is the best result over multiple invocations. M
 
 |                                                               | sin      | power    | nested   | compile  | comment                                        |
 | ------------------------------------------------------------- | -------- | -------- | -------- | -------- | ---------------------------------------------- |
-| [Evalexpra 12.0.2](https://docs.rs/evalexpr/12.0.2/evalexpr/) | 3.26     | 2.73     | 6.6      | 9.43     | more than mathematical expressions             |
+| [Evalexpr 12.0.2](https://docs.rs/evalexpr/12.0.2/evalexpr/) | 3.26     | 2.73     | 6.6      | 9.43     | more than mathematical expressions             |
 | *[Exmex](https://docs.rs/exmex)* `f64`                        | **0.16** | **0.19** | **0.56** | **0.31** | can compute partial derivatives                |
 | *[Exmex uncompiled](https://docs.rs/exmex)* `f64`             | **0.16** | **0.19** | **0.56** | 0.64     | can compute partial derivatives                |
 | *[Exmex](https://docs.rs/exmex)* `Val`                        | 0.61     | 0.56     | 1.27     | 1.02     | multiple data types in one expression possible |
