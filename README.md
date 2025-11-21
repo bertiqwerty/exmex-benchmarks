@@ -18,7 +18,7 @@ cargo bench --all-features --bench benchmark -- --noplot --sample-size 10 --nres
 ```
 to compute the results. Reported is the best result over multiple invocations. More about taking the minimum run-time for benchmarking can be found below.
 
-## Latest Results
+## Results for Exmex 0.20.5
 
 |                                                               | sin      | power    | nested   | compile  | comment                                        |
 | ------------------------------------------------------------- | -------- | -------- | -------- | -------- | ---------------------------------------------- |
